@@ -11,7 +11,7 @@ Projeto feito no módulo do curso Node + Typescript
 - [x]Aplicar buscas por nome do animal
 
 <h1 align="center">
-    <img alt="projetoCanil" title="projetoCanil" src="./public/projetoCanil.gif />
+    <img alt="projetoCanil" title="projetoCanil" src="./public/projetoCanil.gif" />
 </h1>
 
 ### Pré-requisitos globais:
